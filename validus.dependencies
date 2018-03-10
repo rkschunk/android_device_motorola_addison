@@ -5,7 +5,7 @@
     "branch": "8.1"
   },
   {
-    "repository": "JosipKC/kernel_motorola_msm8953",
+    "repository": "JosipKC/android_kernel_motorola_msm8953",
     "target_path": "kernel/motorola/msm8953",
     "branch": "oreo-mr1-test"
   },
