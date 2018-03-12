@@ -5,9 +5,9 @@
     "branch": "8.1"
   },
   {
-    "repository": "JosipKC/android_kernel_motorola_msm8953",
+    "repository": "Alberto97/android_kernel_motorola_msm8953",
     "target_path": "kernel/motorola/msm8953",
-    "branch": "oreo-mr1-test"
+    "branch": "oreo-mr1"
   },
   {
     "repository": "LineageOS/android_packages_resources_devicesettings",
