@@ -1,8 +1,8 @@
 [
   {
-    "repository": "JosipKC/proprietary_vendor_motorola",
-    "target_path": "vendor/motorola",
-    "branch": "8.1"
+    "repository": "rkschunk/vendor_motorola_addison",
+    "target_path": "vendor/motorola/addison",
+    "branch": "oreo-mr1"
   },
   {
     "repository": "Alberto97/android_kernel_motorola_msm8953",
